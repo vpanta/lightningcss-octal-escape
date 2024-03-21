@@ -1,0 +1,8 @@
+{
+  "name": "lightningcss-octal-escape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "lightningcss": "^1.24.1"
+  }
+}
